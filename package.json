@@ -1,0 +1,19 @@
+{
+  "name": "raydium-buysell-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/node": "^22.3.0",
+    "dv-sol-lib": "^1.1.4",
+    "redis": "^4.7.0",
+    "typescript": "^5.5.4"
+  }
+}
